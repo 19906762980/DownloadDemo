@@ -4,7 +4,7 @@ import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.RandomAccessFile;
-//vvvv
+//vxxxv
 public class DownThread extends Thread {
 	private final int BUFF_LEN = 8192;
 	private BufferedInputStream inputStream;
