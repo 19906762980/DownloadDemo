@@ -14,6 +14,7 @@ public class DownThread extends Thread {
 	private int flag = 1;
 
 	/**
+	 * sss
 	 * @param start 下载开始位置
 	 * @param end 下载结束位置
 	 * @param inputStream 输入流
