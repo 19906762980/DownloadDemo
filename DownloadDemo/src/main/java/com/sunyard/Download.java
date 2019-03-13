@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.io.RandomAccessFile;
 import java.net.HttpURLConnection;
 import java.net.URL;
-//xzq
+//hxj
 public class Download {
 	public static void dowanload(String url, String path)
             throws IOException {
